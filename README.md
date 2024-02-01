@@ -2,6 +2,11 @@
 
 ## Project setup
 ```
+-- Añadir archivo .env en la raíz del proyecto con las siguientes variables de entorno --
+
+  VUE_APP_ENV=local
+  VUE_APP_API_URL=
+
 npm install
 ```
 
